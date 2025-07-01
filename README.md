@@ -45,3 +45,12 @@ SELECT A,B,C
 WHERE A> 15
 
 ```
+### Analysis
+
+
+
+![graph_visualiser-1751384302898](https://github.com/user-attachments/assets/53910a82-946a-4642-825c-43c677b38991)
+
+
+
+
