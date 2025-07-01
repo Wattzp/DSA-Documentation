@@ -52,5 +52,6 @@ WHERE A> 15
 ![graph_visualiser-1751384302898](https://github.com/user-attachments/assets/53910a82-946a-4642-825c-43c677b38991)
 
 
+![graph_visualiser-1751384777519](https://github.com/user-attachments/assets/00923b97-e865-43ce-a2a4-c58110cbccda)
 
 
